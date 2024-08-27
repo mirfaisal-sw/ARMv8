@@ -1,0 +1,4 @@
+
+
+1. https://sourabhemsec.blogspot.com/2020/02/reverse-engineering-arm-binary.html\
+2. https://sourabhemsec.blogspot.com/2020/04/arm-trustzone-overview-on-how-smc-calls.html
